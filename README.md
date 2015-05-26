@@ -1,3 +1,3 @@
 # datasciencecoursera
 First repo created for DataScience Toolbox
-I am parcticing editing the Readmefile
+I am practicing editing the Readmefile
